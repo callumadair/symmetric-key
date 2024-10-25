@@ -1,0 +1,11 @@
+[package]
+name = "symmetric-key"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+keywords = ["cms", "keypkg"]
+categories = ["cryptography"]
+
+[dependencies]
+der = { version= "0.7.9", features = ["alloc", "oid", "derive"] }
+
