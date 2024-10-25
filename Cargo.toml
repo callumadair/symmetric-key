@@ -3,6 +3,9 @@ name = "symmetric-key"
 version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
+description = "A small crate implementing asn1 structures for symmetric key packaging."
+repository = "https://github.com/callumadair/symmetric-key"
+readme = "README.md"
 keywords = ["cms", "keypkg"]
 categories = ["cryptography"]
 
